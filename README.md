@@ -160,8 +160,8 @@ Para reproducir manualmente un fallo:
 4. Comprobar el mensaje de error, el botón habilitado y las otras tarjetas intactas.
 5. Restaurar la conexión y pulsar el mismo botón para reintentar.
 
-La evidencia automatizada simula el rechazo de una solicitud de red dentro del
-navegador de prueba. No modifica el código de la aplicación ni la conexión del equipo.
+Las dos capturas principales se tomaron manualmente en Firefox y muestran
+`http://localhost:8080` en la barra de direcciones.
 Las pruebas y sus resultados se describen en `pruebas/RESULTADOS.md`.
 
 ## Documentación consultada
@@ -176,3 +176,5 @@ Las pruebas y sus resultados se describen en `pruebas/RESULTADOS.md`.
 El ZIP contiene el código fuente, este README y las capturas. No se utiliza
 ASP.NET Core; no hay carpetas `bin`, `obj` ni `.vs` que incluir.
 Para la plataforma se entrega el ZIP y el enlace al repositorio de GitHub.
+
+Repositorio: [SuperGenio56/explorador-contenido-aleatorio](https://github.com/SuperGenio56/explorador-contenido-aleatorio).

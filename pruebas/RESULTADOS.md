@@ -65,12 +65,14 @@ aproximadamente a los 25 segundos.
 ## Evidencias
 
 - `capturas/01-cuatro-secciones.png`: carga real de las cuatro APIs.
-- `capturas/02-error-controlado.png`: fallo de conexión simulado en citas, con
+- `capturas/02-error-controlado.png`: error de conexión en citas, con
   mensaje comprensible, botón habilitado y las otras secciones disponibles.
 - `capturas/03-vista-movil.png`: página completa a 390 píxeles de ancho.
 
 Las capturas corresponden a la página ejecutada en el navegador. El contenido
 aleatorio puede ser distinto en cada imagen y en futuras consultas.
+Las capturas 01 y 02 de la entrega fueron tomadas manualmente en Firefox con
+la URL `http://localhost:8080` visible; sustituyen las capturas de las pruebas iniciales.
 
 ## Revisión manual para repetir
 
